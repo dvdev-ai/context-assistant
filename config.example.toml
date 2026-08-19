@@ -1,7 +1,7 @@
 api_key = "YOUR_API_KEY"
 default_provider = "openrouter"
 model = "openai/gpt-4o-mini"
-manager_chat_id = "danyavertiy"
+manager_chat_id = "YOUR_TELEGRAM_USERNAME"
 default_temperature = 0.7
 provider_timeout_secs = 120
 model_routes = []
